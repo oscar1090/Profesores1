@@ -1,0 +1,213 @@
+﻿body
+{
+background:url(/imagenes/Azul4.jpg);
+}
+
+div.encavezado
+{
+	background:url(/imagenes/Encabezado.jpg);
+	width:12075px;
+	height:100px;
+	
+}
+
+div.tablaconfiguracion
+{
+border:5px;
+color:Red;
+font-family:Arial,sans-serif:font-zise:10 px;color:#333333;
+}
+
+
+.MenuPrincipal
+{
+	border-top-color:Silver;
+	border-top-style:solid;
+	border-right-color:Silver;
+	border-right-style:solid;
+	border-left-color:Silver;
+	border-left-style:solid;
+	
+	font-size:12px;
+	font-style:oblique;
+	font-family:Arial;	
+	
+	position:fixed;
+	width:20px;
+	height:10px;
+	top:236px;
+	right:300px;
+}
+
+.Titulos
+{
+	font-size:18px;
+	font-style:normal;
+	font-family:Arial Black;
+}
+
+.TextoNormal
+{
+	font-size:14px;
+	font-style:normal;
+	font-family:Arial Baltic;
+	width: 328px;
+	text-align:center;
+}
+
+.TextoNormalRojo
+{
+	font-size:14px;
+	font-style:normal;
+	font-family:Arial Baltic;
+	color:Red;
+	text-align:center;
+}
+
+div.contenedor
+{
+	width:900px;
+	height:900px;
+}
+
+.Boxleftloguin
+{
+	
+	border-style: solid;
+	border-color: Black;
+	font-size:12px;
+	font-style:oblique;
+	font-family:Arial Black;
+	
+	
+	position:fixed;
+	width:438px;
+	height:226px;
+	top:263px;
+	left: 450px;
+}
+
+
+.BoxAnunciosPrincipal
+{
+	border-bottom-color:Red;
+	border-bottom-style:solid;
+	border-right-color:Red;
+	border-right-style:solid;
+	
+	font-size:12px;
+	font-style:normal;
+	font-family:Arial;
+	
+	position:inherit;
+	width:1200px;
+	height:336px;
+	top:200;
+	right:435;
+}
+
+
+div.ImagenAnuncio1
+{
+	
+	background:url(/imagenes/AnuncioNomina.bmp);
+	height:135px;
+	
+}
+
+div.ImagenAnuncio2
+{
+	
+	background:url(/imagenes/AnuncioBancaPorInternet.bmp);
+	height:70px;
+	
+}
+
+div.ImagenAnuncio3
+{
+	
+	background:url(/imagenes/AnuncioInvercionExpress.bmp);
+	height:135px;
+	
+}
+.lineaMenu
+{
+	border-bottom-color:Black;
+	border-bottom-style:solid;
+	border-left-color:Black;
+	border-left-style:solid;
+	font-size:12px;
+	position:fixed;
+	height:500px;
+	top: 148px;
+	left: 307px;
+	margin-right: 6px;
+}
+.BoxAltaUsuario
+{
+	
+	font-size:12px;
+	font-style:oblique;
+	font-family:Arial Black;
+	
+	
+	position:fixed;
+	width:1035px;
+	height:474px;
+	top:140px;
+	right:4px;
+	margin-right: 6px;
+}
+
+.BoxMenu
+{
+	
+	font-size:12px;
+	font-style:oblique;
+	font-family:Arial Black;
+	
+	
+	position:fixed;
+	width:499px;
+	height:392px;
+	top:121px;
+	right:1035px;
+	margin-right: 0px;
+}
+
+.BoxInformacioninicial
+{
+	border-bottom-color:Red;
+	border-bottom-style:solid;
+	border-left-color:Red;
+	border-left-style:solid;
+	font-size:12px;
+	font-style:oblique;
+	font-family:Arial Black;
+	
+	
+	position:fixed;
+	width:712px;
+	height:196px;
+	top:234px;
+	right:216px;
+}
+
+.BoxDatosPersonales
+{
+	font-size:12px;
+	font-style:oblique;
+	font-family:Arial Black;
+	
+	
+	position:fixed;
+	width:1035px;
+	height:474px;
+	top:139px;
+	right:4px;
+	margin-right: 6px;
+}
+
+
+
+
